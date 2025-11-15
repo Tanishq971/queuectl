@@ -1,14 +1,3 @@
-Below is a polished **README.md** that includes exactly the 4 things required:
-
-✅ Setup Instructions
-✅ Usage Examples
-✅ Architecture Overview
-✅ Assumptions & Trade-Offs
-
-Everything is written clearly and professionally for an internship submission.
-
----
-
 # 🚀 **QueueCTL — Background Job Queue System**
 
 QueueCTL is a command-line background job queue system built in **Node.js + TypeScript + Prisma (SQLite)**.
